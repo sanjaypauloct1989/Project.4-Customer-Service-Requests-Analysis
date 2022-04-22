@@ -20,4 +20,4 @@ Order the complaint types based on the average ‘Request_Closing_Time’, group
 Perform a statistical test for the following:
 Please note: For the below statements you need to state the Null and Alternate and then provide a statistical test to
 accept or reject the Null Hypothesis along with the corresponding ‘p-value’.
-Whether the average response time across complaint types is similar or not (overall)
+Whether the average response time across complaint types is similar or not (overall).
